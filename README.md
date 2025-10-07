@@ -27,6 +27,6 @@ Perfect for red team operators, SOC analysts, or anyone who wants instant visibi
 
 ---
    ```bash
-   sudo git clone https://github.com/suprsu0x3/TAN-Plugin.git /usr/share/powershell-empire/empire/server/plugins
+   sudo git clone https://github.com/suprsu0x3/TAN-Plugin.git /usr/share/powershell-empire/empire/server/plugins/TAN-Plugin
    ```
 
