@@ -10,7 +10,7 @@ Stay instantly informed about agent activity — no need to keep Starkiller open
 This plugin integrates seamlessly with **Starkiller** or **PS-Empire**, automatically detecting new agent connections and sending a formatted Telegram message to your chosen chats or groups.  
 Perfect for red team operators, SOC analysts, or anyone who wants instant visibility of new connections.
 
-![preview](assets/preview.jpg)
+![preview](assets/2025-10-07_17-34.png)
 ---
 
 ## ✨ Features
