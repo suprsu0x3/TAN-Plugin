@@ -1,0 +1,10 @@
+name: "Telegram Agent Alert"
+authors:
+  - name: suprsu
+    handle: '@mr0x03'
+    link: 'https://t.me/@mr0x03'
+enabled: true
+plugin_type: "agent_events"
+description: "Sends Telegram notifications when new agents connect"
+version: "1.0"
+main: telegram_notify.py
